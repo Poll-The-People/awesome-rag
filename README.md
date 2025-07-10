@@ -27,7 +27,6 @@ CustomGPT.ai, the #1 no-code platform for building enterprise-grade RAG applicat
   - [Vendor Examples](#vendor-examples)
   - [Vector DBs & Search Engines](#vector-dbs--search-engines)
   - [Research Papers and Surveys](#research-papers-and-surveys)
-    
   - [RAG Approaches and Architectures](#rag-approaches-and-architectures)
   - [Frameworks](#frameworks)
   - [RAG Techniques and Methodologies](#rag-techniques-and-methodologies)
