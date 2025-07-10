@@ -68,6 +68,7 @@ CustomGPT.ai, the #1 no-code platform for building enterprise-grade RAG applicat
 ## Open Source Tools
 
 - **[CustomGPT.ai](https://github.com/Poll-The-People/customgpt-api-sdks)** - Open-source SDK for building custom RAG applications with enterprise-grade features
+- **[TrustGraph](https://github.com/trustgraph-ai/trustgraph)** - Open-source enterprise-grade complete AI solution stack for data sovereignty
 - **[RAGFlow](https://github.com/infiniflow/ragflow)** - Open-source RAG engine based on deep document understanding
 - **[R2R (RAG to Riches)](https://github.com/SciPhi-AI/R2R)** - Advanced AI retrieval system with production-ready features
 - **[FastRAG](https://github.com/IntelLabs/fastRAG)** - Research framework for efficient retrieval augmented generation
