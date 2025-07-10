@@ -170,12 +170,12 @@ Pick a vector db - [GUIDE](https://benchmark.vectorview.ai/vectordbs.html)
 * **[TiDB Vector](https://docs.pingcap.com/tidbcloud/vector-search-overview/)** - semantic similarity searches across various data types
 * **[ScaNN](https://github.com/google-research/google-research/tree/master/scann)** - ScaNN (Scalable Nearest Neighbors) is a method for efficient vector similarity search at scale
 * **[Lantern.dev](https://lantern.dev)** - open-source Postgres vector database
-* [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/vector-database): Globally distributed, multi-model database service with integrated vector search.
-* [Couchbase](https://www.couchbase.com/products/vector-search/): A distributed NoSQL cloud database.
-* [LlamaIndex](https://docs.llamaindex.ai/en/stable/module_guides/storing/vector_stores/): Employs a straightforward in-memory vector store for rapid experimentation.
-* [Neo4j](https://neo4j.com/docs/cypher-manual/current/indexes/semantic-indexes/vector-indexes/): Graph database management system.
-* [Redis Stack](https://redis.io/docs/latest/develop/interact/search-and-query/): An in-memory data structure store used as a database, cache, and message broker.
-* [SurrealDB](https://github.com/surrealdb/surrealdb): A scalable multi-model database optimized for time-series data.
+* **[Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/vector-database)**: Globally distributed, multi-model database service with integrated vector search.
+* **[Couchbase](https://www.couchbase.com/products/vector-search/)**: A distributed NoSQL cloud database.
+* **[LlamaIndex](https://docs.llamaindex.ai/en/stable/module_guides/storing/vector_stores/)**: Employs a straightforward in-memory vector store for rapid experimentation.
+* **[Neo4j](https://neo4j.com/docs/cypher-manual/current/indexes/semantic-indexes/vector-indexes/)**: Graph database management system.
+* **[Redis Stack](https://redis.io/docs/latest/develop/interact/search-and-query/)**: An in-memory data structure store used as a database, cache, and message broker.
+* **[SurrealDB](https://github.com/surrealdb/surrealdb)**: A scalable multi-model database optimized for time-series data.
 
 
 
@@ -202,35 +202,31 @@ More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-
 
 ### RAG Survey 2022
 
-* [02.02] [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/abs/2202.01110)
+* [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/abs/2202.01110)
 
 ### RAG Survey 2023
 
-* [03.20] [Retrieving Multimodal Information for Augmented Generation: A Survey](https://arxiv.org/abs/2303.10868)
-* [11.18] [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
+* [Retrieving Multimodal Information for Augmented Generation: A Survey](https://arxiv.org/abs/2303.10868)
+* [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
 
 ### RAG Survey 2024
 
-* [02.29] [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://arxiv.org/abs/2402.19473)
-* [04.17] [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)
-* [04.30] [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543)
-* [05.10] [A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211)
-* [05.13] [Evaluation of Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2405.07437)
-* [07.18] [Retrieval-Augmented Generation for Natural Language Processing: A Survey](https://arxiv.org/abs/2407.13193)
-* [08.15] [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
-* [09.23] [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924)
-* [10.23] [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](https://arxiv.org/abs/2410.12837)
+* [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://arxiv.org/abs/2402.19473)
+* [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)
+* [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543)
+* [A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211)
+* [Evaluation of Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2405.07437)
+* [Retrieval-Augmented Generation for Natural Language Processing: A Survey](https://arxiv.org/abs/2407.13193)
+* [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)
+* [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924)
+* [A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions](https://arxiv.org/abs/2410.12837)
 
 ## RAG Approaches and Architectures
 
-- **[Fusion-in-Decoder (FiD)](https://aclanthology.org/2021.eacl-main.74/)**
-
-- **[RETRO (Retrieval-Enhanced Transformer)](https://arxiv.org/abs/2112.04426)** - DeepMind's approach with trillions of tokens
-
-- **[Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)** - Meta's Atlas model for few-shot learning
-
-- **[ColBERT: Efficient Late Interaction Retrieval](https://arxiv.org/abs/2004.12832)** - Multi-vector dense retrieval with late interaction
-
+* **[Fusion-in-Decoder (FiD)](https://aclanthology.org/2021.eacl-main.74/)**
+* **[RETRO (Retrieval-Enhanced Transformer)](https://arxiv.org/abs/2112.04426)** - DeepMind's approach with trillions of tokens
+* **[Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/abs/2208.03299)** - Meta's Atlas model for few-shot learning
+* **[ColBERT: Efficient Late Interaction Retrieval](https://arxiv.org/abs/2004.12832)** - Multi-vector dense retrieval with late interaction
 * **[Cache-Augmented Generation (CAG)](https://medium.com/@ronantech/cache-augmented-generation-cag-in-llms-a-step-by-step-tutorial-6ac35d415eec)** – Pre-loads pertinent documents into the model’s context and retains the key-value (KV) cache from earlier inferences.
 * **[Agentic RAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/)** – “Retrieval agents” that autonomously decide how and when to retrieve information.
 * **[Corrective RAG (CRAG)](https://arxiv.org/pdf/2401.15884.pdf)** – Adds a refinement step to fix or polish retrieved content before it is woven into the LLM’s answer.
@@ -265,16 +261,10 @@ More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-
 ## RAG Techniques and Methodologies
 
 - **[HyDE (Hypothetical Document Embeddings)](https://arxiv.org/abs/2212.10496)** - Uses LLMs to generate hypothetical documents for queries
-
 - **[FLARE (Forward-Looking Active REtrieval)](https://arxiv.org/abs/2305.06983)** - Iteratively retrieves relevant documents based on prediction confidence
-
 - **[Self-RAG](https://arxiv.org/abs/2310.11511)** - Trains LLMs to adaptively retrieve passages and self-critique
-
 - **[CRAG (Corrective Retrieval Augmented Generation)](https://arxiv.org/abs/2401.15884)** - Improves generation robustness with retrieval evaluator
-
 - **[RAG Techniques Repository](https://github.com/NirDiamant/RAG_Techniques)** - Curated collection of 30+ advanced RAG techniques with implementations
-
-
 - **[Design and Evaluation of RAG Solutions](https://github.com/Azure-Samples/Design-and-evaluation-of-RAG-solutions)** - Comprehensive guide following best practices
 - **[LangChain RAG Best Practices](https://github.com/timerring/rag101//)** - Evaluation and comparison of different RAG architectures
 - **[RAG Triad Methodology](https://www.trulens.org/getting_started/core_concepts/rag_triad/)** - Context relevance, groundedness, and answer relevance framework
@@ -297,8 +287,7 @@ More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-
 
 ### Graph-based RAG
 
-- **[Microsoft GraphRAG](https://github.com/microsoft/graphrag)** - Knowledge graph approach to RAG  
-  Research: [GraphRAG Paper](https://arxiv.org/abs/2404.16130)
+- **[Microsoft GraphRAG](https://github.com/microsoft/graphrag)** - Knowledge graph approach to RAG Research: [GraphRAG Paper](https://arxiv.org/abs/2404.16130)
 - **[Knowledge Graph Integration for RAG](https://github.com/NirDiamant/RAG_Techniques/tree/main/all_rag_techniques/graph_rag)**
 - **[Neo4j GraphRAG](https://neo4j.com/developer/graph-data-science/applied-graph-ml/)** - Building knowledge graphs for RAG
 
@@ -373,7 +362,6 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 - **[LoRA Chunking](https://github.com/mesolitica/Chunk-loss-LoRA)** - Fused kernel chunk loss to include LoRA to reduce memory, support DeepSpeed ZeRO3
 - **[Semantic chunking video](https://youtu.be/8OJC21T2SL4)**
 - **[Agentic chunking demo](https://youtu.be/8OJC21T2SL4?t=2882)** - The 5 Levels Of Text Splitting For Retrieval
-
 - **[Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)**
 - **[Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)**
 - **[How to Chunk Text Data — A Comparative Analysis](https://towardsdatascience.com/how-to-chunk-text-data-a-comparative-analysis-3858c4a0997a)**
@@ -420,9 +408,9 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 * **[Prompt‑Injection Defense](https://hiddenlayer.com/innovation-hub/prompt-injection-attacks-on-llms/)**
 * **[OpenAI Function Calling JSON Schema](https://platform.openai.com/docs/guides/function-calling)**
 * **[Harmless RLHF pipelines](https://huggingface.co/blog/rlhf)**
-* [in-Of-Verification Reduces Hallucination in LLMs](https://cobusgreyling.medium.com/chain-of-verification-reduces-hallucination-in-llms-20af5ea67672)
-* [How to Detect Hallucinations in LLMs](https://towardsdatascience.com/real-time-llm-hallucination-detection-9a68bb292698)
-* [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)
+* **[in-Of-Verification Reduces Hallucination in LLMs](https://cobusgreyling.medium.com/chain-of-verification-reduces-hallucination-in-llms-20af5ea67672)**
+* **[How to Detect Hallucinations in LLMs](https://towardsdatascience.com/real-time-llm-hallucination-detection-9a68bb292698)**
+* **[Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)**
 
 
 ## Security and Privacy Considerations
@@ -431,12 +419,12 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 - **[CSA RAG Security Best Practices](https://cloudsecurityalliance.org/blog/2024/02/12/retrieval-augmented-generation-rag-security-best-practices/)** - Enterprise-grade security controls for RAG
 - **[Microsoft Presidio for PII Protection](https://github.com/microsoft/presidio)** - Framework for detecting and anonymizing sensitive information
 - **[LLM Guard](https://github.com/protectai/llm-guard)** - Security toolkit for protecting LLM applications
-- [Masking PII Data in RAG Pipeline](https://betterprogramming.pub/masking-pii-data-in-rag-pipeline-326d2d330336)
-- [Hijacking Chatbots: Dangerous Methods Manipulating GPTs](https://medium.com/@jankammerath/hijacking-chatbots-dangerous-methods-manipulating-gpts-52342f4f88b8)
+- **[Masking PII Data in RAG Pipeline](https://betterprogramming.pub/masking-pii-data-in-rag-pipeline-326d2d330336)**
+- **[Hijacking Chatbots: Dangerous Methods Manipulating GPTs](https://medium.com/@jankammerath/hijacking-chatbots-dangerous-methods-manipulating-gpts-52342f4f88b8)**
 - **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** - Framework for implementing security guardrails
 - **[NVIDIA NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** - Comprehensive toolkit for building programmable guardrails
-- [NeMo Guardrails: The Missing Manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)
-- [Safeguarding LLMs with Guardrails](https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2)
+- **[NeMo Guardrails: The Missing Manual](https://www.pinecone.io/learn/nemo-guardrails-intro/)**
+- **[Safeguarding LLMs with Guardrails](https://towardsdatascience.com/safeguarding-llms-with-guardrails-4f5d9f57cff2)**
 
 ## Evaluation Metrics and Benchmarks
 
@@ -472,17 +460,11 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 * [CodeRAG-Bench: Can Retrieval Augment Code Generation?](https://arxiv.org/abs/2406.14497)
 * [Long<sup>2</sup>RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented Generation with Key Point Recall](https://arxiv.org/abs/2410.23000)
 
-
-
-
-
 ## Advantages and Disadvantages
 
 * **[Advantages overview](https://towardsdatascience.com/retrieval-augmented-generation-intuitively-and-exhaustively-explain-6a39d6fe6fc9)**
 * **[Disadvantages & pitfalls](https://medium.com/@kelvin.lu.au/disadvantages-of-rag-5024692f2c53)**
 * **[RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study](https://arxiv.org/abs/2401.08406)**
-
-
 
 
 ## Performance, Cost & Observability
