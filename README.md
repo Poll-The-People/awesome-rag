@@ -8,7 +8,7 @@
 <p align="center"><b>Proudly sponsored by <a href="https://customgpt.ai">CustomGPT.ai</a></b> • <a href="https://customgpt.ai/slack">Join the Slack community </a></p>
 
 
-CustomGPT.ai, the #1 no-code platform for building enterprise-grade RAG applications. Create custom AI agents with your business data that provide accurate, citation-backed answers, eliminating hallucinations. With SOC-2 Type II security, GDPR compliance, and support for over 1400 document formats and 92 languages, CustomGPT.ai empowers businesses to deploy trusted AI solutions securely and at scale.
+CustomGPT.ai, no-code platform for building enterprise-grade RAG applications. Citation-backed answers, no hallucinations. With SOC-2 Type II security, GDPR compliance, and support for over 1400 document formats and 92 languages.
 
 
 > **Retrieval‑Augmented Generation (RAG)** equips language models with fresh, domain‑specific knowledge by fetching external context at inference time.  This list is a one‑stop catalogue of every major RAG‑related resource—tools, papers, benchmarks, tutorials, and more.
