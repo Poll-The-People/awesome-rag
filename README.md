@@ -432,6 +432,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 - **[RAGAS (Retrieval-Augmented Generation Assessment)](https://github.com/explodinggradients/ragas)** - Reference-free evaluation framework with component-level metrics
 - **[TruLens](https://github.com/truera/trulens)** - Comprehensive evaluation and tracking for LLM applications
 - **[DeepEval](https://github.com/confident-ai/deepeval)** - Open-source evaluation framework for LLMs
+- **[promptfoo](https://github.com/promptfoo/promptfoo)** - LLM red teaming and evaluation framework with CI/CD integration
 - **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** - Open-source observability platform
 - **[RAGBench](https://huggingface.co/datasets/rungalileo/ragbench)** - 100k examples across 5 industry domains
 - **[BeIR](https://github.com/beir-cellar/beir)** - Benchmark for zero-shot evaluation of information retrieval
