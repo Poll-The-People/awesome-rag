@@ -96,6 +96,7 @@ CustomGPT.ai, no-code platform for building enterprise-grade RAG applications. C
 * **[LangGraph](https://github.com/langchain-ai/langgraph)** — Agentic DAGs
 * **[Ragna](https://github.com/Quansight/ragna)** — RAG orchestration framework
 * **[SimplyRetrieve](https://github.com/RCGAI/SimplyRetrieve)** - Lightweight chat AI platform featuring custom knowledge.
+* **[Lightweight OpenRouter RAG](https://github.com/Dhavanesh24cs412/Simple-RAG-GHC)** - Simple CPU-only RAG chatbot using sentence-transformers & OpenRouter. PDF to generative answers(Beginner-friendly approach).
 
 ## Embedding Models & Libraries
 
