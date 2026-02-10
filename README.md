@@ -363,6 +363,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 - **[LoRA Chunking](https://github.com/mesolitica/Chunk-loss-LoRA)** - Fused kernel chunk loss to include LoRA to reduce memory, support DeepSpeed ZeRO3
 - **[Semantic chunking video](https://youtu.be/8OJC21T2SL4)**
 - **[Agentic chunking demo](https://youtu.be/8OJC21T2SL4?t=2882)** - The 5 Levels Of Text Splitting For Retrieval
+- **[RAGFlow Optimizer](https://github.com/stranger00135/ragflow-optimizer)** - LLM-based tool to automatically find optimal chunking parameters (chunk size, overlap, parser) for RAGFlow through automated evaluation
 - **[Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)**
 - **[Evaluating the Ideal Chunk Size for a RAG System using LlamaIndex](https://blog.llamaindex.ai/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5)**
 - **[How to Chunk Text Data — A Comparative Analysis](https://towardsdatascience.com/how-to-chunk-text-data-a-comparative-analysis-3858c4a0997a)**
