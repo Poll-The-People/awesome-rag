@@ -437,6 +437,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 - **[BeIR](https://github.com/beir-cellar/beir)** - Benchmark for zero-shot evaluation of information retrieval
 - **[MTEB](https://huggingface.co/spaces/mteb/leaderboard)** - Massive Text Embedding Benchmark
 - **[ARES](https://github.com/stanford-futuredata/ares)** - Automated Evaluation of RAG Systems
+- **[WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)** - A 16-mode framework for debugging RAG pipeline failures.
 - **[RGB Benchmark](https://github.com/chen700564/RGB)** - implementation for Benchmarking Large Language Models in Retrieval-Augmented Generation
 - **[LlamaIndex RAG eval](https://docs.llamaindex.ai/en/stable/examples/cookbooks/oreilly_course_cookbooks/Module-3/Evaluating_RAG_Systems/)** - Evaluation and benchmarking are crucial in developing LLM applications
 
