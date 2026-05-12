@@ -91,6 +91,7 @@ CustomGPT.ai, no-code platform for building enterprise-grade RAG applications. C
 * **[Neum](https://github.com/NeumTry/NeumAI)** — Creation and synchronization of vector embeddings at large scale
 * **[GPTCache](https://github.com/zilliztech/GPTCache)** — Embedding‑aware cache
 * **[Mastra](https://github.com/mastra-ai/mastra)** The TypeScript AI agent framework. Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama
+* **[Dakera MCP](https://github.com/dakera-ai/dakera-mcp)** - Self-hosted agent memory server with persistent vector recall, decay-weighted retrieval, and 83 MCP tools — provides long-term memory grounding for RAG pipelines across agent sessions
 * **[Letta (MemGPT)](https://github.com/letta-ai/letta)** — Stateful apps
 * **[Swiftide](https://github.com/bosun-ai/swiftide)** - Fast, streaming indexing, query, and agentic LLM applications in Rust
 * **[LangGraph](https://github.com/langchain-ai/langgraph)** — Agentic DAGs
