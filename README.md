@@ -116,6 +116,7 @@ CustomGPT.ai, no-code platform for building enterprise-grade RAG applications. C
 ## Proprietary Tools
 
 * **[CustomGPT.ai RAG API](https://customgpt.ai/api)** — Enterprise agents, hallucination free.
+* **[AI for Database](https://aifordatabase.com)** — Connect to any database and query it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 * **[Pinecone](https://www.pinecone.io/)** - Fully managed vector database service
 * **[LangSmith](https://www.langchain.com/langsmith)** - Platform for building and evaluating LLM applications
 * **[OpenAI Assistants & Retrieval](https://platform.openai.com/docs/assistants)**
