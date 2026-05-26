@@ -165,6 +165,7 @@ Pick a vector db - [GUIDE](https://benchmark.vectorview.ai/vectordbs.html)
 * **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** - Open source distributed and RESTful search engine
 * **[Vespa](https://github.com/vespa-engine/vespa)** - AI + Data, online
 * **[PGVector](https://github.com/pgvector/pgvector)** - PostgreSQL extension for vector similarity search
+* **[psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s)** - PostgreSQL extension for BM25-family lexical retrieval and SQL-native top-k search
 * **[Redis Stack Search](https://redis.io/docs/interact/search-and-query/)** - Searching and querying Redis data using the Redis Query Engine
 * **[ClickHouse Vectors](https://clickhouse.com/blog/vector-search-clickhouse-p1)**
 * **[Oracle AI Vector Search](https://www.oracle.com/database/ai-vector-search/)**
@@ -640,4 +641,3 @@ Contributions are welcome! Please read the contribution guidelines before submit
 ## License
 
 This collection is licensed under MIT.
-
