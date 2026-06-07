@@ -567,6 +567,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 
 ### Newsletters & Forums
 * [ragaboutit](https://ragaboutit.com/) - A blog and newsletter focused specifically on RAG news, tutorials, and insights, making it a dedicated resource for staying up-to-date.
+* [DiamantAI](https://diamantai.substack.com) - A newsletter on practical AI engineering and generative AI, with frequent deep dives into RAG techniques, agents, and LLM application patterns.
 * [r/LangChain](https://www.reddit.com/r/LangChain/) 
 * [r/rag](https://www.reddit.com/r/Rag/) - Reddit communities for practical discussions, troubleshooting, and sharing projects. These are valuable for seeing what challenges other developers are facing in real-time.
 
