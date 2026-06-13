@@ -268,6 +268,7 @@ More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-
 - **[RAG Techniques Repository](https://github.com/NirDiamant/RAG_Techniques)** - Curated collection of 30+ advanced RAG techniques with implementations
 - **[Design and Evaluation of RAG Solutions](https://github.com/Azure-Samples/Design-and-evaluation-of-RAG-solutions)** - Comprehensive guide following best practices
 - **[LangChain RAG Best Practices](https://github.com/timerring/rag101//)** - Evaluation and comparison of different RAG architectures
+- **[rag-architect](https://github.com/greynewell/rag-architect)** - Hermes Agent profile and templates for production RAG architecture, evaluation plans, observability specs, and implementation-ready issue design
 - **[RAG Triad Methodology](https://www.trulens.org/getting_started/core_concepts/rag_triad/)** - Context relevance, groundedness, and answer relevance framework
 - **[Agentic RAG](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/)**
 - **[Corrective RAG (CRAG)](https://arxiv.org/abs/2401.15884)**
