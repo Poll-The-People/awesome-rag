@@ -310,6 +310,7 @@ More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-
 - **[Hybrid Search: Combining Dense and Sparse Retrieval](https://docs.opensearch.org/docs/latest/vector-search/ai-search/hybrid-search/index/)** - Implementation guide for hybrid search systems
 - **[Dense‑Sparse‑Dense (DSD)](https://arxiv.org/abs/2404.09842)**
 - **[Advanced Reranking Techniques](https://github.com/NirDiamant/RAG_Techniques/blob/main/all_rag_techniques/reranking.ipynb)** - Guide to implementing cross-encoder reranking.
+- **[Hybrid RAG Router (Superhighway)](https://superhighway.walls.sh/guides/web-search-hybrid-rag-router)** - Routing between a vector store and live web search: keyword classifier, LLM-based router, and a LangChain LCEL pipeline that queries both sources and merges context.
 
 More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techniques/tree/main/all_rag_techniques)
 
