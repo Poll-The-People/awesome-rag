@@ -433,6 +433,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 - **[TruLens](https://github.com/truera/trulens)** - Comprehensive evaluation and tracking for LLM applications
 - **[DeepEval](https://github.com/confident-ai/deepeval)** - Open-source evaluation framework for LLMs
 - **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** - Open-source observability platform
+- **[Future AGI](https://github.com/future-agi/future-agi)** - Open-source platform for evaluating LLM and agent apps, with 70+ built-in metrics, multimodal and custom evals, LLM-as-judge, and guardrail scanners
 - **[RAGBench](https://huggingface.co/datasets/rungalileo/ragbench)** - 100k examples across 5 industry domains
 - **[BeIR](https://github.com/beir-cellar/beir)** - Benchmark for zero-shot evaluation of information retrieval
 - **[MTEB](https://huggingface.co/spaces/mteb/leaderboard)** - Massive Text Embedding Benchmark
