@@ -89,7 +89,8 @@ CustomGPT.ai, no-code platform for building enterprise-grade RAG applications. C
 * **[reag](https://github.com/superagent-ai/reag)** — Reasoning Augmented Generation
 * **[Danswer](https://github.com/danswer-ai/danswer)** — Internal Q\&A search
 * **[Neum](https://github.com/NeumTry/NeumAI)** — Creation and synchronization of vector embeddings at large scale
-* **[GPTCache](https://github.com/zilliztech/GPTCache)** — Embedding‑aware cache
+* **[GPTCache](https://github.com/zilliztech/GPTCache)**
+* **[KV Cache Store](https://github.com/kvcachestore/kvcdn)** — Hosted KV-cache artifact registry plus open-source Rust CLI. Precompute, verify, and reuse attention states across RAG and long-context prompts to cut prefill cost and latency. — Embedding‑aware cache
 * **[Mastra](https://github.com/mastra-ai/mastra)** The TypeScript AI agent framework. Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama
 * **[Letta (MemGPT)](https://github.com/letta-ai/letta)** — Stateful apps
 * **[Swiftide](https://github.com/bosun-ai/swiftide)** - Fast, streaming indexing, query, and agentic LLM applications in Rust
