@@ -403,6 +403,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 ## Response Quality, and Hallucination
 
 * **[RAGTruth: A Hallucination Corpus](https://arxiv.org/abs/2401.00396)** - Dataset with 18,000 RAG responses and hallucination annotations
+* **[CiteGuard](https://github.com/larrylot/citeguard)** - Local CLI that verifies citations in agent/deep-research Markdown reports (URL resolve, title soft-match, claim–source overlap; offline fixtures; no API keys)
 * **[Reducing Hallucination in Structured Outputs via RAG](https://arxiv.org/abs/2404.08189)**
 * **[WhyLabs AI Control Center](https://whylabs.ai/)** - Platform for real-time guardrails and monitoring
 * **[Vectara Hallucination Score](https://github.com/vectara/hallucination-leaderboard/)**
