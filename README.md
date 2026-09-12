@@ -520,6 +520,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 
 ### Courses and Tutorials
 
+* **[RAG + Knowledge Graph Master Course (TheQuery)](https://www.thequery.in/books/rag-kg-master-course)** — Addy. Free 16-chapter written book on retrieval, knowledge graphs, and hybrid systems; HTML and EPUB, no signup.
 * **[Building Advanced RAG (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)**
 * **[RAG from Scratch (FreeCodeCamp)](https://www.freecodecamp.org/news/tag/rag//)**
 * **[IBM Generative AI and RAG Course (Coursera)](https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation)**
