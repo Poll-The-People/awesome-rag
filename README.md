@@ -116,6 +116,7 @@ CustomGPT.ai, no-code platform for building enterprise-grade RAG applications. C
 ## Proprietary Tools
 
 * **[CustomGPT.ai RAG API](https://customgpt.ai/api)** — Enterprise agents, hallucination free.
+* **[GoodMem](https://docs.goodmem.ai/)** — Managed or self-hosted memory infrastructure for AI agents, with server-side chunking, embeddings, semantic retrieval, optional reranking, and shared memory spaces.
 * **[Pinecone](https://www.pinecone.io/)** - Fully managed vector database service
 * **[LangSmith](https://www.langchain.com/langsmith)** - Platform for building and evaluating LLM applications
 * **[OpenAI Assistants & Retrieval](https://platform.openai.com/docs/assistants)**
