@@ -92,6 +92,7 @@ CustomGPT.ai, no-code platform for building enterprise-grade RAG applications. C
 * **[GPTCache](https://github.com/zilliztech/GPTCache)** — Embedding‑aware cache
 * **[Mastra](https://github.com/mastra-ai/mastra)** The TypeScript AI agent framework. Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama
 * **[Letta (MemGPT)](https://github.com/letta-ai/letta)** — Stateful apps
+* **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** — MIT-licensed MCP server for agent memory, backed by a hosted engine that re-ranks recall from reported outcomes rather than similarity alone
 * **[Swiftide](https://github.com/bosun-ai/swiftide)** - Fast, streaming indexing, query, and agentic LLM applications in Rust
 * **[LangGraph](https://github.com/langchain-ai/langgraph)** — Agentic DAGs
 * **[Ragna](https://github.com/Quansight/ragna)** — RAG orchestration framework
