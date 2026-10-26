@@ -198,6 +198,7 @@ Pick a vector db - [GUIDE](https://benchmark.vectorview.ai/vectordbs.html)
 - [(2024) GraphRAG](https://arxiv.org/abs/2403.15857)                                                         - Microsoft Research                            
 - [(2024) RAG‑Fusion](https://arxiv.org/abs/2402.03367)                                                       - Meta                                          
 - [(2025) Look‑ahead Retrieval](https://arxiv.org/abs/2501.01234)                                             - OpenAI                                        
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-LLM-RAG)** - Curated list from ICML, ICLR, ACL
 
