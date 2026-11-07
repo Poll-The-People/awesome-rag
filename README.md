@@ -281,6 +281,7 @@ More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-
 
 ### Multimodal RAG
 
+- **[FreeRet: MLLMs as Training-Free Retrievers](https://proceedings.mlr.press/v306/zhu26ba.html)** — ICML 2026; training-free multimodal embedding retrieval and neutral-choice reranking, with generation preserved for single-model RAG. [[Code]](https://github.com/MCG-NJU/FreeRet)
 - **[Multimodal RAG with CLIP](https://github.com/run-llama/llama_index/tree/main/docs/examples/multi_modal)** - Text-Image retrieval using CLIP
 - **[SAM-RAG](https://arxiv.org/abs/2410.11321)** - Self-adaptive multimodal RAG framework
 - **[ColPali](https://arxiv.org/abs/2407.01449)** - Efficient document retrieval with vision language models
