@@ -299,6 +299,7 @@ More - **[RAG Research Papers Collection](https://github.com/jxzhangjhu/Awesome-
 
 - **[Dense Passage Retrieval (DPR) Implementation](https://github.com/facebookresearch/DPR)**
 - **[ColBERTv2: Effective and Efficient Retrieval](https://arxiv.org/abs/2112.01488)**
+- **[ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://aclanthology.org/2025.emnlp-main.963/)** - Joint LLM-based query expansion and dense retriever optimization
 
 ### Sparse Retrieval
 
@@ -412,6 +413,8 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 * **[in-Of-Verification Reduces Hallucination in LLMs](https://cobusgreyling.medium.com/chain-of-verification-reduces-hallucination-in-llms-20af5ea67672)**
 * **[How to Detect Hallucinations in LLMs](https://towardsdatascience.com/real-time-llm-hallucination-detection-9a68bb292698)**
 * **[Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/)**
+* **[ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543)** - FFN suppression and adaptation for contextual faithfulness
+* **[SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)** - Adaptive FFN participation for mitigating context–memory conflicts
 
 
 ## Security and Privacy Considerations
