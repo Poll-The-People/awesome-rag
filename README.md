@@ -526,6 +526,7 @@ More here: [All RAG Reranking (GitHub)](https://github.com/NirDiamant/RAG_Techni
 * [**MAGMaR 2024** — Multimodal Augmented Generation (NeurIPS)](https://marworkshop.github.io/neurips24/)
 * **[ACL 2024 Knowledgeable LMs Tutorial](https://aclanthology.org/2024.acl-tutorials.3)**
 * **[SIGIR 2023 Generative IR Workshop](https://arxiv.org/abs/2306.02887)**
+* **[Mini-RAG: an offline extractive RAG example](https://github.com/datamarcos-official/agentic-ai-projects/tree/main/examples/mini-rag)** - A standard-library Python tutorial that chunks local documents, retrieves with TF-IDF, cites sources, and refuses weak matches, with unit tests.
 
 - [**MAGMaR - The 1st Workshop on Multimodal Augmented Generation via MultimodAl Retrieval** - *Reno Kriz, Kenton Murray, Eugene Yang, Francis Ferraro, Kate Sanders, Cameron Carpenter, Benjamin Van Durme*](https://nlp.jhu.edu/magmar)
 - [**Towards Knowledgeable Language Models** - *Zoey Sha Li, Manling Li, Michael JQ Zhang, Eunsol Choi, Mor Geva, Peter Hase*](https://knowledgeable-lm.github.io/)
